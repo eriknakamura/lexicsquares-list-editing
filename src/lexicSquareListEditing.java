@@ -13,7 +13,7 @@ import java.util.Scanner;
  * The following program takes a line-delineated list of words and edits it to get rid of either proper nouns, plurals, or both.
  * It accepts an input file and WILL EDIT THE FILE, it DOES NOT CREATE A COPY.
  */
-public class lexicSquareListEditing {
+public class LexicSquareListEditing {
 
     public static void main(String[] args){
         /*
